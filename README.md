@@ -19,9 +19,13 @@ If you are that company - please, contact me ezhgurova@gmail.com or here is my [
 I will very appreciate any help, tips & tricks with web development. 
 
 
+
 _Best wishes,_
+
 _Your Katya Heylen (Ezhgurova)_
+
 _and may the Code be with us_ 👩‍💻
+
 
 **PS** I also know how to bake the best [PIROZHKI](https://en.wikipedia.org/wiki/Pirozhki) ever, knit lovely toys and sing Russian songs playing gitar. 
 
