@@ -1,6 +1,6 @@
-### For whoever it may concern 👀
+### For whom it may concern 👀
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KatyaHeylen)](https://github.com/anuraghazra/github-readme-stats&hide=stars)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KatyaHeylen&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KatyaHeylen/KatyaHeylen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
