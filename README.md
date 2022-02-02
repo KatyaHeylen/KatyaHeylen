@@ -1,6 +1,6 @@
 ### For whom it may concern 👀
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KatyaHeylen&theme=synthwave&show_icons=true&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KatyaHeylen&theme=tokyonight&show_icons=true&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KatyaHeylen/KatyaHeylen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
