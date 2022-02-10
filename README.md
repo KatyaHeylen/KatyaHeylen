@@ -1,6 +1,6 @@
 > To whom it may concern 👀
 
-### Hello there! 👋
+## Hello there! 👋
 
 I am a beginner in the web development and do my best to become a better version of myself every day. 
 
